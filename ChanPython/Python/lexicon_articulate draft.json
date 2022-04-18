@@ -1,0 +1,1094 @@
+{
+
+" OOOOOOOOOOOOOOOOOOOOOOO VERBS OOOOOOOOOOOOOOOOOOOOOO "
+
+"PC_or_TermOfAffection" : 
+[
+"<playercharactername>", 
+"cher",
+"cherie",
+"mon ami",
+"buddy",
+"friend",
+"kiddo",
+"sweetheart",
+"honey", 
+"hon",
+"my friend",
+"my buddy",
+"silly",
+"bud",
+"pal",
+"champ",
+"kid"
+],
+
+"PC_or_TermOfAffection_or_Blank" :
+[
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"<playercharactername>",
+"cher",
+"cherie",
+"mon ami",
+"buddy",
+"friend",
+"kiddo", 
+"sweetheart",
+"honey",
+"hon",
+"my friend",
+"my buddy",
+"silly",
+"bud",
+"pal",
+"champ",
+"kid"    
+],
+
+"a_and" :
+[
+"and",
+"and",
+"and",
+"and",
+"and",
+"and",
+"and",
+"and",
+"and",
+"and",
+"and",
+"and",
+"and",
+"&",  
+"+",  
+"und"
+],
+
+"encounter" :
+[
+"encounter",
+"run in"
+],
+
+"friends" :
+[
+"friends",
+"buds",
+"pals",
+"good friends",
+"buddies",
+"mates",
+"acquainted",
+"chums",
+"familiar",
+"compatriots",
+"comrades"
+],
+
+"I" :
+[
+"I",
+"I",
+"I",
+"I",
+"I",
+"I",
+"I",
+"I",
+"I",
+"I",
+"I",
+"I",
+"I myself"    
+],
+
+"them" :
+[
+"them"    
+],
+
+"thing_it" :
+[
+"it",
+"the thing",
+"this thing",
+"something",
+"some thing",
+"a thing"
+],
+
+"thing_situation" :
+[
+"thing",
+"situation"
+],
+
+"me" :
+[
+"me",
+"me",
+"me",
+"me",
+"me",
+"me",
+"me",
+"me",
+"me",
+"me",
+"me",
+"me",
+"me",
+"me",
+"me",
+"me",
+"me",
+"yours truly"
+],
+
+"so" :
+[
+"so",
+"so",
+"so",
+"so",
+"so",
+"so",
+"so",
+"so",
+"so",
+"so",
+"so",
+"so",
+"so",
+"so",
+"very",
+"really", 
+"totally",
+"completely",
+"extremely",
+"super",
+"awfully",
+"powerfully",
+"excruciatingly",
+"intensely"
+],
+
+"someone" :
+[
+"someone",
+"somebody"
+],
+
+"something_entity" :
+[
+"something",
+"a thing"
+],
+
+"talk_noun" :
+[
+"talk",
+"talk",
+"talk",
+"chat",
+"chat",
+"chat",
+"discussion",
+"dialogue",
+"conversation",
+"discourse",
+"exchange",
+"tête-à-tête", 
+"heart-to-heart",
+"debate",
+"back-and-forth"  
+],
+
+"thing" :
+[
+"thing"    
+],
+
+"thing_ty_situation" :
+[
+"thing",
+"situation",
+"experience"
+],
+
+"you" :
+[
+"you"    
+],
+
+"they_singular" :
+[
+"they"    
+],
+
+"anyway" :
+[
+"Anyway",
+"Anyhow",
+"Anywhoo",
+"Irregardless",
+"Regardless",
+"Ah well",
+"Oh well",
+"Hum"    
+],
+
+"hello" :
+[
+"Hello",
+"Greetings",
+"Aloha",
+"Salutations"
+],
+
+"right_affirmation" :
+[
+"right",
+"yes",
+"correct",
+"true",
+"mmhmm"
+],
+
+"excl_punct" :
+[
+".",
+"!",
+"?"    
+],
+
+"about" :
+[
+"about",
+"about",
+"about",
+"about",
+"about",
+"re:",
+"regarding",
+"on the topic of"   
+],
+
+"term_of_affection" :
+[
+"cheri",
+"mon cher",
+"ma cher",
+"ma cheri",
+"mon cheri",
+"pal",
+"buddy",
+"dearie",
+"dear",
+"sweet",
+"honey",
+"pal",
+"my dear",
+"my dear friend"
+],
+
+"the" :
+[
+"the"    
+],
+
+"verbal_tic_end" :
+[
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"...erm...",
+"mmhm"
+],
+
+"verbal_tic_start" :
+[
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"anywho",
+"anyways",
+"well",
+"hmm",
+"ho-hum",
+"hum-ho",
+"indeed"
+],
+
+"was" :
+[
+"was"
+],
+
+"good_adj" :
+[
+"good",
+"great",
+"wonderful",
+"lovely",
+"tops",
+"delightful",
+"dope",
+"sick",
+"suhweet",
+"sweet",
+"pretty good",
+"pretty great",
+"pretty awesome",
+"pretty decent",
+"pretty awesome",
+"cool",
+"neat",
+"badass",
+"neato",
+"epic",
+"top",
+"fine",
+"quality",
+"satisfactory",
+"righteous",
+"upstanding",
+"exemplary",
+"real",
+"laudable",
+"solid",
+"commendable",
+"legit",
+"worthy",
+"ducky",
+"hunky-dory",
+"palatable", 
+"blessed",
+"congenial",
+"darling",
+"delectable",
+"enjoyable",
+"gratifying",
+"heavenly",
+"nice",
+"pleasant",
+"pleasing",
+"pleasurable",
+"satisfying",
+"welcome",
+"charming",
+"enchanting",
+"fascinating",
+"amusing",
+"entertaining",
+"cheery",
+"genial",
+"goodgood",
+"gud",
+"happy",
+"elating",
+"intoxicating",
+"enrapturing",
+"clever",
+"choice",
+"priceless",
+"cherished",
+"exceptional",
+"decent",
+"dece",
+"fair",
+"bang on",
+"fairish",
+"okay",
+"ok",
+"exceptional",
+"exquisite",
+"first-class",
+"high-grade",
+"special",
+"bang-up",
+"boss",
+"crackerjack",
+"dandy",
+"divine",
+"fabulous",
+"grand",
+"great",
+"grooovy", 
+"marvelous", 
+"nifty", 
+"sensational", 
+"splendid", 
+"stellar", 
+"sterling", 
+"superb", 
+"top-notch", 
+"swell", 
+"terrific", 
+"tip-top", 
+"goddamn good", 
+"GOOD", 
+"aces", 
+"all right", 
+"ballin", 
+"bit of all right", 
+"bloomin good", 
+"bomb", 
+"bonanza", 
+"chill", 
+"chilled"
+],
+
+"crazy" :
+[
+"crazy",
+"wild",
+"insane",
+"strange",
+"uncanny",
+"odd",
+"queer",
+"inexplicable",
+"unbelievable", 
+"nutty",
+"preposterous"
+],
+
+"craziest" :
+[
+"craziest",
+"wildest",
+"most insane",
+"strangest",
+"most uncanny",
+"oddest",
+"queerest",
+"most inexplicable",
+"most unbelievable"
+],
+
+"creepiest" :
+[
+"creepiest",
+"weirdest",
+"most bone-chilling",
+"most nerve-wracking",
+"most nightmarish",
+"shittiest",
+"wackest",
+"most frightening",
+"eeriest"
+],
+
+"fine" :
+[
+"fine",
+"okay",
+"well",
+"well enough",
+"fine enough",
+"well enough alive",
+"in good health", 
+"in good spirits",
+"right as rain"
+],
+
+"good" :
+[
+"good",
+"great",
+"wonderful",
+"lovely",
+"tops",
+"delightful", 
+"pretty good",
+"pretty great",
+"neat",
+"top",
+"fine",
+"quality",
+"satisfactory",
+"upstanding",
+"exemplary",
+"laudable",
+"commendable",
+"worthy",
+"ducky",
+"hunky-dory",
+"palatable",
+"blessed",
+"congenial",
+"darling",
+"delectable",
+"enjoyable",
+"gratifying",
+"heavenly",
+"nice",
+"pleasant",
+"pleasing",
+"pleasurable",
+"satisfying",
+"welcome",
+"charming",
+"enchanting",
+"fascinating",
+"amusing",
+"entertaining",
+"cheery",
+"genial",
+"happy",
+"elating",
+"intoxicating",
+"enrapturing",
+"clever",
+"choice",
+"priceless", 
+"cherished",
+"exceptional",
+"fair",
+"bang on",
+"fairish",
+"okay",
+"exceptional",
+"exquisite",
+"first-class", 
+"high-grade",
+"special",
+"bang-up",
+"dandy",
+"divine",
+"fabulous",
+"grand",
+"great",
+"marvelous",
+"nifty", 
+"sensational",
+"splendid",
+"stellar",
+"sterling",
+"superb",
+"top-notch",
+"swell",
+"terrific",
+"tip-top",
+"goddamn good",
+"aces",
+"all right",
+"bloomin good"
+],
+
+"interested" :
+[
+"interested",
+"intrigued",
+"piqued",
+"curious",
+"eager to hear"
+],
+
+"mad" :
+[
+"angry",
+"annoyed",
+"enraged",
+"furious",
+"irate",
+"irritable",
+"irritated",
+"outraged",
+"chafed",
+"cross",
+"fuming",
+"incensed",
+"inflamed",
+"infuriated",
+"put out",
+"riled",
+"vexed", 
+"frustrated"
+],
+
+"true" :
+[
+"true",
+"the truth",
+"real",
+"a fact",
+"truth",
+"reality",
+"nothing but truth"
+],
+
+"just" :
+[
+"just",
+"really",
+"simply"
+],
+
+"just_temporal" :
+[
+"just",
+"has just"
+],
+
+"no_adverb" :
+[
+"no",
+"no",
+"no",
+"no",
+"no",
+"no",
+"no",
+"no",
+"no",
+"no",
+"no",
+"no",
+"naught"
+],
+
+"just_po" :
+[
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"just",
+"really" 
+],
+
+"very_po" :
+[
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"",
+"", 
+"very",
+"indescribably",
+"indubitably",
+"incredibly",
+"irresistably",
+"immensely",
+"exquisitely",
+"inscrutably",
+"absolutely", 
+"utterly",
+"indeed",
+"vehemently",
+"really",
+"deeply",
+"wildly",
+"extremely"  
+],
+
+"argued" :
+[
+"argued",
+"fought",
+"debated",
+"quarreled",
+"disagreed",
+"squabbled",
+"bickered",
+"feuded",
+"had a row",
+"had words",
+"crossed swords",
+"locked horns",
+"were at each other's throats",
+"clashed",
+"were at odds",
+"scrapped",
+"went at it" 
+],
+
+"attacked" :
+[
+"attacked",
+"assaulted",
+"soared at",
+"ambushed",
+"went for", 
+"struck at",
+"molested",
+"biffed",
+"set upon",
+"launched at",
+"launched upon",
+"pounced on",
+"assailed", 
+"fell upon",
+"rushed",
+"stormed",
+"besieged",
+"set its sights upon",
+"transgressed upon"
+],
+
+"believe_this" :
+[
+"believe",
+"be convinced of",
+"fathom"
+],
+
+"believe_me" :
+[
+"believe",
+"trust",
+"trust in"
+],
+
+"feel" :
+[
+"feel",
+"sense",
+"intuit",
+"perceive",
+"discern"
+],
+
+"happened" :
+[
+"happened",
+"occurred",
+"took place"
+],
+
+"hurt_verb" :
+[
+"hurt",
+"slap",
+"pinch",
+"kick",
+"needle",
+"stick",
+"flick",
+"smack",
+"throw a pie at", 
+"fling a cat at",
+"set a dog upon",
+"release the rats upon",
+"put a curse on",
+"put a hex on",
+"set a monkey upon"
+],
+
+"might" :
+[
+"might",
+"may",
+"would",
+"could"
+],
+
+"needed" :
+[
+"needed",
+"wanted",
+"desired",
+"felt it necessary",
+"could hardly fight the urge"
+],
+
+"tell" :
+[
+"tell",
+"tell",
+"tell",
+"tell",
+"tell",
+"inform",
+"inform",
+"dump on"
+],
+
+"think" :
+[
+"think",
+"believe",
+"feel like"
+],
+
+"saw" :
+[
+"saw",
+"sighted",
+"experienced",
+"witnessed",
+"was audience to",
+"was party to",
+"was subjected to",
+"observed", 
+"spotted",
+"beheld",
+"bore witness to"
+],
+
+"spoke" :
+[
+"spoke",
+"have spoken",
+"talked",
+"have talked",
+"conversed",
+"discussed",
+"chatted",
+"had a chat with",
+"had a talk with",
+"messaged", 
+"messaged with"
+],
+
+"swear" :
+[
+"swear",
+"solemnly insist",
+"promise",
+"declare",
+"beg you to believe",
+"swear on my soul",
+"beg you believe",
+"need you to believe" 
+],
+
+"vent" :
+[
+"vent",
+"complain",
+"waffle on",
+"whiffle on",
+"shout my displeasure",
+"utter my displeasure",
+"utter my annoyance",
+"utter my frustration",
+"verbalise my irritation",
+"verbalise my annoyance"
+],
+
+"are_making_me" :
+[
+"are making me",
+"are driving me",
+"are sending me",
+"are getting me",
+"are getting me"
+],
+
+"I_thought" :
+[
+"I thought",
+"I thought",
+"I figured",
+"I considered",
+"it occurred to me",
+"I assumed"
+],
+
+"it_is" :
+[
+"it is",
+"it's",
+"t'is"
+],
+
+"it_was" :
+[
+"it was",
+"t'was",
+"it really was"
+],
+
+"have_you_met" :
+[
+"Have you met",
+"Do you know",
+"Are you familiar with",
+"Are you acquainted with",
+"Have you spoken with"
+],
+
+"maybe_you_will_understand" :
+[
+"maybe you will",
+"perhaps you will",
+"maybe you shall",
+"perhaps you shall",
+"maybe you'll get it",
+"maybe u'll get it",
+"maybe you will understand"
+],
+
+"of_all_things" :
+[
+"of all things",
+"can you believe it",
+"if you can believe it",
+"strangely enough"
+],
+
+"oh_no" :
+[
+"oh no",
+"oh dear",
+"oh bother",
+"rats",
+"dear-oh-dear",
+"dearie me"
+],
+
+"wanted_to" :
+[
+"wanted to",
+"wanted to",
+"wanted to",
+"wanted to",
+"wanted to",
+"wanted to",
+"wanted to",
+"wanted to",
+"wanted to",
+"wanted to", 
+"was so wanting to",
+"felt like I wanted to",
+"desired to",
+"deeply wanted to",
+"terribly wanted to",
+"for a moment wanted to",
+"needed to", 
+"longed to",
+"was hit by a moment of wanting to"
+],
+
+"will_not" :
+[
+"will not",
+"won't",
+"absolutely will not"
+],
+
+"you_are_singular" :
+[
+"you are",
+"you're"
+],
+
+"you_are_plural" :
+[
+"you are",
+"you're",
+"ur",
+"u r",
+"you guys",
+"y'all",
+"yall",
+"youse"
+],
+
+"you_have" :
+[
+"you have",
+"you've"
+]
+
+}
